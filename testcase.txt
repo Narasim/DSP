@@ -1,0 +1,5 @@
+4
+3 10 ia ib ic id ie if ig d d d
+4 5 d d ia ib ic
+2 6 ia d ib d ic d
+1 5 ia ib ic id d
